@@ -15,7 +15,7 @@ Welcome to the Meditation App—your personal relaxation companion. This app is 
 ## 🚀 Getting Started
 
 1. Installation:
-- Clone this repository to your local machine:
+- Clone this repository to your local machine: <br>
             git clone https://github.com/yourusername/meditation-app.git  
 2. Usage:
 - Open the app in your browser.
