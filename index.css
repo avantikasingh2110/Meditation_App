@@ -411,25 +411,25 @@ a {
 }
 /* bg modal */
 #music-modal {
-  background: url(../images/modal-home-images/music.jpg);
+  background: url(./images/modal-home-images/music.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 #scene-modal {
-  background: url(../images/modal-home-images/scene.jpg);
+  background: url(./images/modal-home-images/scene.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 * #breathe-modal {
-  background: url(../images/modal-home-images/breathe.jpg);
+  background: url(./images/modal-home-images/breathe.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 #ai-modal {
-  background: url(../images/modal-home-images/ai.jpg);
+  background: url(./images/modal-home-images/ai.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -510,7 +510,7 @@ a {
 
 #music-body {
   font-family: "Poppins", sans-serif;
-  background: url(../images/backgrounds/music-bg.jpg);
+  background: url(./images/backgrounds/music-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -610,7 +610,7 @@ a {
 
 .selected::after {
   content: "";
-  background: url("../images/icons/arrow-down.svg");
+  background: url("./images/icons/arrow-down.svg");
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -920,7 +920,7 @@ a {
 /* scene */
 #scene-body {
   font-family: "Poppins", sans-serif;
-  background: url(../images/backgrounds/scene-bg.jpg);
+  background: url(./images/backgrounds/scene-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1197,7 +1197,7 @@ a {
 /* relax */
 #relax-body {
   font-family: "Poppins", sans-serif;
-  background: url(../images/backgrounds/relax-bg.jpg);
+  background: url(./images/backgrounds/background_img.avif);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1357,7 +1357,7 @@ a {
   bottom: 0;
   width: 100%;
   z-index: 999;
-  background: url(../images/breathing-exercises-bg/deep-breathing.jpg);
+  background: url(./images/breathing-exercises-bg/deep-breathing.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1365,7 +1365,7 @@ a {
   height: 100%;
 }
 .deep-breathing {
-  background: url(../images/relax-breathe-bg/deep-breathing.jpg);
+  background: url(./images/relax-breathe-bg/deep-breathing.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1499,7 +1499,7 @@ a {
   bottom: 0;
   width: 100%;
   z-index: 999;
-  background: url(../images/breathing-exercises-bg/four-seven-eight-bg.jpg);
+  background: url(./images/breathing-exercises-bg/four-seven-eight-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1654,7 +1654,7 @@ a {
 }
 /* 4-7-8 breathing */
 .four-seven-eight {
-  background: url(../images/relax-breathe-bg/four-seven-eight.jpg);
+  background: url(./images/relax-breathe-bg/four-seven-eight.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1666,7 +1666,7 @@ a {
 /* ai hope */
 #hope-body {
   font-family: "Poppins", sans-serif;
-  background: url(../images/backgrounds/hope-bg.jpg);
+  background: url(./images/backgrounds/background_img.avif);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2088,13 +2088,13 @@ a {
     margin-bottom: 5rem;
   }
   .deep-breathing {
-    background: url(../images/relax-breathe-bg/deep-breathing-mobile.jpg);
+    background: url(./images/relax-breathe-bg/deep-breathing-mobile.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   .four-seven-eight {
-    background: url(../images/relax-breathe-bg/four-seven-eight-mobile.jpg);
+    background: url(./images/relax-breathe-bg/four-seven-eight-mobile.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
