@@ -72,7 +72,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background: url(./images/backgrounds/home-bg.jpg);
+  background: url(./images/backgrounds/background_img.avif);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -88,11 +88,11 @@ body::before {
   left: 0;
   bottom: 0;
   right: 0;
-  background: linear-gradient(
+  /* background: linear-gradient(
     to right bottom,
     rgba(59, 190, 236, 0.3),
     rgba(52, 120, 221, 0.3)
-  );
+  ); */
   box-shadow: 0 3px 3px rgba(0, 0, 0, 0.25);
   z-index: -1;
   height: 100%;
@@ -161,7 +161,8 @@ a {
   left: 0;
   width: 20vw;
   height: 100vh;
-  background: linear-gradient(240deg, rgba(58, 85, 118, 0.7) 10%, #2c2e44 70%);
+  /* background: linear-gradient(240deg, rgba(58, 85, 118, 0.7) 10%, #2c2e44 70%); */
+  background: linear-gradient(135deg, hsla(261, 72%, 47%, 1) 0%, hsla(191, 40%, 34%, 1) 50%, hsla(207, 65%, 39%, 1) 100%);
   box-shadow: 3px 5px 6px rgba(45, 55, 68, 0.3);
   padding: 1.25rem 0.5rem 2rem 0.5rem;
   z-index: 2;
